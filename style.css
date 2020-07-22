@@ -1,0 +1,15 @@
+#transaction-area{
+    display: none;
+}
+
+.deposit {
+    background-color: slateblue;
+}
+
+.withdraw {
+background-color: salmon;
+}
+
+.balance{
+    background-color: orange;
+}
